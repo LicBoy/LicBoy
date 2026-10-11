@@ -31,6 +31,7 @@ Da Nang, Vietnam · working remotely
 | [**Chat-labeling automation**](https://github.com/LicBoy/chatGPT-avito-solver) | I automated my own data-labeling job: collected my labeled chats, fine-tuned a RuBERT classifier on them, and let Selenium do the labeling | Python · RuBERT · Selenium · Tampermonkey |
 | [**Image super-resolution with GANs**](https://github.com/LicBoy/thesis-SR) | Bachelor's thesis: 4x upscaling with SRGAN and ESRGAN compared with classical interpolation | PyTorch · GANs · computer vision |
 | [**Swiper**](https://github.com/LicBoy/2D-Game-Swiper-) | Arcade mobile game: swipe to destroy asteroids, survive waves, pick bonuses. Formerly published on Google Play | Unity · C# · AdMob |
+| [**P2P crypto trading bot**](https://github.com/LicBoy/localbits) | Automated buy/sell pricing on the LocalBitcoins P2P exchange, controlled from a Telegram bot (archived, 2020–2021) | Python · REST/HMAC · Telegram Bot API |
 
 ## Experience
 
