@@ -1,8 +1,10 @@
 # Hi, I'm Ruslan
 
 **QA Automation Engineer (SDET) in fintech & payments.** I also build apps for small businesses.
+Every project, with an interactive demo: **[licman.dev](https://licman.dev)**
 Da Nang, Vietnam · working remotely
 
+[![Website](https://img.shields.io/badge/Website-licman.dev-191714?logo=googlechrome&logoColor=white)](https://licman.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-licman-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/licman)
 [![Telegram](https://img.shields.io/badge/Telegram-@Licman-26A5E4?logo=telegram&logoColor=white)](https://t.me/Licman)
 [![Email](https://img.shields.io/badge/Email-ahmetvaleevr%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:ahmetvaleevr@gmail.com)
